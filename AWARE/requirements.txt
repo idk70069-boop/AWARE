@@ -1,0 +1,3 @@
+# Core optional dependencies. AWARE can run with pure stdlib for hash-based scans.
+watchdog>=4.0.0
+yara-python>=4.3.0
